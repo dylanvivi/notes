@@ -1,0 +1,15 @@
+[23-Feb-2012 21:48:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'dylanviv'@'localhost' (using password: NO) in /home/dylanviv/public_html/notes/connect.php on line 15
+[23-Feb-2012 21:54:09] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/dylanviv/public_html/notes/demo.php on line 19
+[28-Feb-2012 09:50:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/dylanviv/public_html/notes/connect.php on line 15
+[29-Mar-2012 00:21:24] PHP Parse error:  syntax error, unexpected ';' in /home/dylanviv/public_html/notes/index.php on line 30
+[29-Mar-2012 00:23:51] PHP Parse error:  syntax error, unexpected '}' in /home/dylanviv/public_html/notes/index.php on line 31
+[29-Mar-2012 00:24:24] PHP Parse error:  syntax error, unexpected ';' in /home/dylanviv/public_html/notes/index.php on line 27
+[29-Mar-2012 00:24:42] PHP Parse error:  syntax error, unexpected ';' in /home/dylanviv/public_html/notes/index.php on line 30
+[29-Mar-2012 00:28:54] PHP Parse error:  syntax error, unexpected ';' in /home/dylanviv/public_html/notes/index.php on line 31
+[29-Mar-2012 00:29:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '$' in /home/dylanviv/public_html/notes/index.php on line 27
+[29-Mar-2012 00:29:51] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '$' in /home/dylanviv/public_html/notes/index.php on line 27
+[29-Mar-2012 00:29:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '$' in /home/dylanviv/public_html/notes/index.php on line 27
+[29-Mar-2012 00:30:45] PHP Parse error:  syntax error, unexpected ';' in /home/dylanviv/public_html/notes/index.php on line 30
+[29-Mar-2012 00:32:49] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/dylanviv/public_html/notes/index.php on line 27
+[29-Mar-2012 00:33:51] PHP Parse error:  syntax error, unexpected ';' in /home/dylanviv/public_html/notes/index.php on line 29
+[29-Mar-2012 00:35:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/dylanviv/public_html/notes/index.php on line 27
